@@ -1,0 +1,2 @@
+#easylist.hosts converted by perl script from https://newspaint.wordpress.com/2014/08/18/filtering-easylist-for-hosts-file-style-adblock/
+#original list txt file from https://easylist.to/easylist/easylist.txt by adblock pro easylist

@@ -1,0 +1,22 @@
+#easylist.hosts converted by perl script from https://newspaint.wordpress.com/2014/08/18/filtering-easylist-for-hosts-file-style-adblock/
+#original list txt file from https://easylist.to/easylist/fanboy-annoyance.txt by adblock pro easylist
+#list last modified: 03 May 2017 01:48 UTC
+127.0.0.1	cnil.links-lab.fr
+127.0.0.1	cookie.gazeta.pl
+127.0.0.1	cookie.oup.com
+127.0.0.1	cookie.radioplayer.co.uk
+127.0.0.1	cookies.fakt.pl
+127.0.0.1	cookies.forbes.pl
+127.0.0.1	cookies.innershed.co.uk
+127.0.0.1	cookies.leadplace.fr
+127.0.0.1	cookies.unidadeditorial.es
+127.0.0.1	curate.venturebeat.com
+127.0.0.1	d1uh1a7az90pt0.cloudfront.net
+127.0.0.1	forms.windowsitpro.com
+127.0.0.1	mailmunch.s3.amazonaws.com
+127.0.0.1	privacy.totaaltv.nl
+127.0.0.1	share.baidu.com
+127.0.0.1	social.dw.de
+127.0.0.1	tmform.azurewebsites.net
+127.0.0.1	twitter-badges.s3.amazonaws.com
+127.0.0.1	widgets.sprinkletxt.com
